@@ -4,6 +4,7 @@ __pycache__/
 *.pyc
 
 hw.ipynb
+model.ipynb
 
 training_ACDC/
 testing_ACDC/
