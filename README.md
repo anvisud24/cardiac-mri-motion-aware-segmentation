@@ -9,7 +9,6 @@ This repository contains the code and notebooks for a cardiac MRI segmentation p
 - `README.md` - project overview, setup, and dataset attribution
 - `.gitignore` - excludes datasets, checkpoints, outputs, and local artifacts from version control
 
-`hw.ipynb` is intentionally excluded from the public repository.
 
 ## Overview
 
