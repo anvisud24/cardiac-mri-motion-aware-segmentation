@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[53]:
 
 
 """
@@ -316,7 +313,6 @@ def get_acdc_dataloaders(
 # In[54]:
 
 
-from __future__ import annotations  # Enable postponed evaluation of annotations
 class Config:
     # Project paths
     PROJECT_NAME = "cardiac_motion_foundation_model"
